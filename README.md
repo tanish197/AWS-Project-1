@@ -49,5 +49,5 @@ Finally, copy public IP of your instance and paste it in the web browser.
 
 
 <div align="center" style="text-align:center; margin:auto;">
-<img align="center" src="https://media.licdn.com/dms/image/C5612AQG55BxdZ9xevw/article-cover_image-shrink_600_2000/0/1642961775042?e=2147483647&v=beta&t=7WlD3ldxsL35FfVsZ6TfqC8WSKZqhIss23u6Hm7fBgo" width="150"/>
+<img align="center" src="https://media.licdn.com/dms/image/C5612AQG55BxdZ9xevw/article-cover_image-shrink_600_2000/0/1642961775042?e=2147483647&v=beta&t=7WlD3ldxsL35FfVsZ6TfqC8WSKZqhIss23u6Hm7fBgo" width="600"/>
 </div>
