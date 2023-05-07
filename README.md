@@ -3,6 +3,10 @@ In this project I have forked the NETFLIX CLONE WEBSITE from @Bankole2000 which 
 
 NOTE: I can't provide the source link but have provided much of information about the project
 
+<div align="center" style="text-align:center; margin:auto;">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/800px-Amazon_Web_Services_Logo.svg.png" width="150"/>
+</div>
+
 <h3>Introduction</h3>
 Here, I have made a project hosting a website using AWS EC2.
 
